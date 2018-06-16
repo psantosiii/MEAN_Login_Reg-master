@@ -1,0 +1,10 @@
+npm init -y
+npm install express --save
+npm install ejs --save
+npm install body-parser --save
+npm install mongoose --save
+npm install express-flash --save
+npm install express-sesssion --save
+npm install bycrypt -- save
+npm install bycryptjs
+sudo mongod
